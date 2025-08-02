@@ -8,4 +8,4 @@ dependencies
 	- cd /usr/local/include
 	- sudo ln -sf eigen3/Eigen Eigen
 - doxygen for docs
-
+    
